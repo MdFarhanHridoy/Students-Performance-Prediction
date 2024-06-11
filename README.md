@@ -3,9 +3,4 @@ The "Students Performance in Exams" project endeavors to enhance educational out
 
 Dataset Link: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
-References:
-https://www.geeksforgeeks.org/data-preprocessing-in-data-mining/
-https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf
-https://stackoverflow.com/questions/58739258/how-to-get-specific-data-points-in-python-pandas
-https://www.springboard.com/blog/data-science/regression-vs-classification/
-https://www.kaggle.com/code/abdelrahmanmahmoud0/student-performance-analysis
+
